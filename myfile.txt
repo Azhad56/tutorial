@@ -1,0 +1,4 @@
+Hello it is Azhad 
+git add . #it adds all files in that folder
+
+git status it tells the status of the file
